@@ -1,0 +1,15 @@
+/Users/joshstone/RussianRoulette/bin/Debug/net9.0/RussianRoulette
+/Users/joshstone/RussianRoulette/bin/Debug/net9.0/RussianRoulette.deps.json
+/Users/joshstone/RussianRoulette/bin/Debug/net9.0/RussianRoulette.runtimeconfig.json
+/Users/joshstone/RussianRoulette/bin/Debug/net9.0/RussianRoulette.dll
+/Users/joshstone/RussianRoulette/bin/Debug/net9.0/RussianRoulette.pdb
+/Users/joshstone/RussianRoulette/obj/Debug/net9.0/RussianRoulette.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshstone/RussianRoulette/obj/Debug/net9.0/RussianRoulette.AssemblyInfoInputs.cache
+/Users/joshstone/RussianRoulette/obj/Debug/net9.0/RussianRoulette.AssemblyInfo.cs
+/Users/joshstone/RussianRoulette/obj/Debug/net9.0/RussianRoulette.csproj.CoreCompileInputs.cache
+/Users/joshstone/RussianRoulette/obj/Debug/net9.0/RussianRoulette.sourcelink.json
+/Users/joshstone/RussianRoulette/obj/Debug/net9.0/RussianRoulette.dll
+/Users/joshstone/RussianRoulette/obj/Debug/net9.0/refint/RussianRoulette.dll
+/Users/joshstone/RussianRoulette/obj/Debug/net9.0/RussianRoulette.pdb
+/Users/joshstone/RussianRoulette/obj/Debug/net9.0/RussianRoulette.genruntimeconfig.cache
+/Users/joshstone/RussianRoulette/obj/Debug/net9.0/ref/RussianRoulette.dll

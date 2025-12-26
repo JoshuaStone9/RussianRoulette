@@ -5,15 +5,15 @@ A small C# console application that simulates a game of Russian Roulette using r
 ---
 
 ## Table of Contents
-Overview  
-High Level Architecture  
-Data Model  
-Control Flow  
-Randomization Logic  
-Console Interface  
-How to Run  
-Potential Improvements  
-Personal Development  
+- [Overview](#overview)
+- [High Level Architecture](#high-level-architecture)
+- [Data Model](#data-model)
+- [Control Flow](#control-flow)
+- [Randomization Logic](#randomization-logic)
+- [Console Interface](#console-interface)
+- [How to Run](#how-to-run)
+- [Potential Improvements](#potential-improvements)
+- [Personal Development](#personal-development)
 
 ---
 
